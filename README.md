@@ -1,11 +1,17 @@
-### Hi there, I'm Francisco Magalhães! 👋
+### Francisco Magalhães
 
-### I am currently on the third of my bachelor' degree in Informatics and Computer Engineering.
+Hi, my name is Francisco Magalhães and I am currently on the third of my bachelor's degree in Informatics and Computer Engineering in FEUP.
 
-#### Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankie02m2023&layout=compact)](https://github.com/frankie02m2023/github-readme-stats)
+This page's main goal is to present to you some of my best university projects, as well as a small description of my skill set as a programmer.
 
-#### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=frankie02m2023&show_icons=true&theme=radical)
+#### Languages:
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,dart,html,css,php,js,c,matlab,sqlite&perline=20)](https://skillicons.dev)
+
+#### IDE'S
+[![My Skills](https://skillicons.dev/icons?i=anaconda,clion,idea,vscode,androidstudio,gradle,kotlin&perline=20)](https://skillicons.dev)
+
+#### Tools
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,androidstudio,gradle,kotlin,git,github,gitlab&perline=20)](https://skillicons.dev)
+
 
 
