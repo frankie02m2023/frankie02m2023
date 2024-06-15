@@ -1,6 +1,6 @@
 ### Francisco Magalhães
 
-Hi, my name is Francisco Magalhães and I am currently on the third of my bachelor's degree in Informatics and Computer Engineering at FEUP.
+Hi, my name is Francisco Magalhães and I am currently on the third year of my bachelor's degree in Informatics and Computer Engineering at FEUP.
 
 This page's main goal is to present to you some of my best university projects, as well as a small description of my skill set as a programmer.
 
